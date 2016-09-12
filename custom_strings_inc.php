@@ -1,3 +1,4 @@
+<?php
 if ( lang_get_current() === 'english' ) {
 	$s_severity_enum_string = '20:Low,35:Medium,40:High,55:Critical';
 	$s_priority_enum_string = ',20:Low,30:Normal,40:High';
@@ -15,3 +16,4 @@ if ( lang_get_current() === 'english' ) {
 	$s_worked_on_bug_title = 'Work On Issue';
 	$s_worked_on_bug_button = 'Work On Issue';
 }
+?>
