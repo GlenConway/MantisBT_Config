@@ -1,3 +1,4 @@
+<?php
 $g_severity_significant_threshold = HIGH;
 $g_default_bug_severity = MEDIUM;
 
@@ -100,3 +101,4 @@ $g_bug_update_page_fields = array (
 $g_bug_assigned_status = OPEN;
 $g_bug_reopen_status = OPEN;
 $g_bug_feedback_status = OPEN;
+?>
